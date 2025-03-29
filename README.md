@@ -1,4 +1,4 @@
-Implemented Dependency Injection, Inversion of dependency
+Implemented Dependency Injection, Inversion of control
 
 Created API'S by creating spring boot components.Used Get,put,post and dlete http methods and also implemented the custom defined methods to get required data..
 
